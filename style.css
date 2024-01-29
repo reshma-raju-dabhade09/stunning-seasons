@@ -96,12 +96,6 @@ input:checked + label .description{
     background-image: url("img/MONSOON.jpg");
 }
 .card[for="c4"]{
-    background-image: url("img/autumn.jpg");
-}
-.card[for="c5"]{
-    background-image: url("img/pre-winter.jpg");
-}
-.card[for="c6"]{
     background-image: url("img/winter.jpeg");
 }
 
